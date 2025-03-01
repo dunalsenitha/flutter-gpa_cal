@@ -10,9 +10,6 @@
 - Light blue color theme for a visually appealing experience
 - Supports Flutter's latest UI elements and theming
 
-## 📸 Screenshots
-
-*(Add screenshots here if available)*
 
 ## 🛠️ Technologies Used
 
